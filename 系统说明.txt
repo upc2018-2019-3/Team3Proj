@@ -1,0 +1,6 @@
+系统说明：
+Java版本：jdk1.8
+服务器：tomcat7.0
+数据库：mysql5.7
+开发工具：Eclipse
+语言：Java
